@@ -1,0 +1,45 @@
+body {
+    /*---Fundo---*/
+
+    background: #d2d2c1 
+    url('../Projeto Modelo/imagens/fundo.png');
+
+    /*---Fonte---*/
+
+    font: 16px Arial, helvetica, sans-serif;   
+    
+}
+
+#Principal {
+    width: 900px;
+}
+
+#Menu {
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#Conteudo {
+    background: #e8e8d9;
+    padding: 20px;
+}
+
+.Centralizar {
+    text-align: center;
+}
+
+.Img-campanha {
+    border: 10px solid #c3c3ae
+}
+
+A {
+    color: #4b566a;
+    text-decoration: underline none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+h1 {
+    color: #828271;
+    font-size: 1.2em;
+}
